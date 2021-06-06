@@ -1,25 +1,45 @@
 #**Webpack template**
 
 This template includes such packages and modules as:    
+
     *babel,
+    
     *babel/preset-typescript,
+    
     *clean-webpack-plugin,
+    
     *cross-env,
+    
     *css-loader,
+    
     *css-minimizer-webpack-plugin,
+    
     *file-loader,
+    
     *html-webpack-plugin,
+    
     *less,
+    
     *mini-css-extract-plugin,
+    
     *sass,
+    
     *style-loader,
+    
     *terser-webpack-plugin,
+    
     *webpack,
+    
     *webpack,
+    
     *webpack-dev-server,
+    
     *xml-loader
+    
     *jquery
+    
     *normalize.css
+    
 
 ***
 
