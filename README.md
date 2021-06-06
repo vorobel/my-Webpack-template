@@ -50,8 +50,8 @@ This template includes such packages and modules as:
     
     2. Run "npm i"
     
-    3.1. To start the dev server in development mode, enter **npm start**
+    3.1. To start the dev server in development mode, enter "npm start"
     
-    3.2. To build the project in development mode enter **npm run dev**
+    3.2. To build the project in development mode enter "npm run dev"
     
-    3.3. To build the project in production mode, enter ** npm run build **
+    3.3. To build the project in production mode, enter "npm run build"
