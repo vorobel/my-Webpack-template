@@ -1,4 +1,4 @@
-#Webpack template
+# Webpack template
 
 This template includes such packages and modules as:    
 
@@ -43,7 +43,7 @@ This template includes such packages and modules as:
 
 ***
 
-##Usage
+## Usage
 
 
     1. Run "git clone https://github.com/vorobel/my-Webpack-template"
