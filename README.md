@@ -44,8 +44,14 @@ This template includes such packages and modules as:
 ***
 
 ###Usage###
+
+
     1. Run "git clone https://github.com/vorobel/my-Webpack-template"
+    
     2. Run "npm i"
+    
     3.1. To start the dev server in development mode, enter **npm start**
+    
     3.2. To build the project in development mode enter **npm run dev**
+    
     3.3. To build the project in production mode, enter **npm run build**
